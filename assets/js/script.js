@@ -8,8 +8,8 @@
 // ============================================
 const CONFIG = {
     whatsappNumber: '60125560400',
-    chatbotAutoOpen: true,
-    chatbotDelay: 3000, // 3 seconds
+    //chatbotAutoOpen: true,
+    //chatbotDelay: 3000, // 3 seconds
     animationDuration: 800,
     scrollOffset: 80
 };
